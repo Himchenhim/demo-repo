@@ -1,3 +1,3 @@
-!Here is information about my first commit.
+Here is information about my first commit.
 
-Hello, World!
+Hello, World.
